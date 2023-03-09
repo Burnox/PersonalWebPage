@@ -1,0 +1,22 @@
+*{
+    font-family: helvetica;
+}
+
+body{
+    background-color: #F5EAEA;
+}
+hr{
+    width: 10%;
+    border-style: dotted none none;
+    /* border-top-style: dotted; */
+    border-width: 5px;
+    border-color: grey;
+}
+
+.contacts{
+    display: flex;
+}
+
+.logo{
+    width: 30px;
+}
